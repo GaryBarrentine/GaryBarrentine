@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaryBarrentine
 
-- 👀 I’m interested in Elecronics, Microcontrollers, Firmware coding (C and C++), Android Apps.
+- 👀 I’m interested in Electronics, Microcontrollers, Firmware coding (C and C++), and Android Apps.
 
 - 🌱 I’m currently learning Kotlin
 
